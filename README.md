@@ -33,6 +33,13 @@ glob
 pandas
 numpy
 
+# RUNNING THE CODE
+Once you have everything set up you can run the code using the mkp.py module. 
+python mkp 
+py mkp 
+whichever your system is set to work with. 
+
+You are not currently prompted with anything as config.py contains the necessary configuration
 
 # IMPORTING INTO DNAPAINTER
 
